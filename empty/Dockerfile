@@ -1,3 +1,5 @@
+# Empty Docker image with only necessary seed data
+
 FROM java:8-jdk-alpine
 
 ENV SCIPIO_VERSION 1.14.1 

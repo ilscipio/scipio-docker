@@ -1,3 +1,5 @@
+# Docker image with demo data
+
 FROM java:8-jdk-alpine
 
 ENV SCIPIO_VERSION 1.14.1 
