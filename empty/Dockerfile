@@ -2,7 +2,7 @@
 
 FROM java:8-jdk-alpine
 
-ENV SCIPIO_VERSION 1.14.1 
+ENV SCIPIO_VERSION 1.14.3
 ENV SCIPIO_TGZ_URL https://github.com/ilscipio/scipio-erp/archive/v$SCIPIO_VERSION.tar.gz
 ENV SCIPIO_HOME /opt/scipio
 
